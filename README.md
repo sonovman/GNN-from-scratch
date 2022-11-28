@@ -2,9 +2,9 @@
 
 
 [References]
+
 0) [A Gentle Introduction to Graph Neural Networks, Neural networks have been adapted to leverage the structure and properties of graphs](https://distill.pub/2021/gnn-intro/)
 0) [Understanding Convolutions on Graphs, Understanding the building blocks and design choices of graph neural networks](https://distill.pub/2021/understanding-gnns/)
-
 1) [Graph Representation Learning Book] https://www.cs.mcgill.ca/~wlh/grl_book/
 2) [Learn How to Perform Feature Extraction from Graphs using DeepWalk] https://www.analyticsvidhya.com/blog/2019/11/graph-feature-extraction-deepwalk/
 3) [SAN MATEO GNN Part 1] (https://youtu.be/YdGN-J322y4):
